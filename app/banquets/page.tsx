@@ -23,7 +23,7 @@ export default function BanquetsPage() {
         />
         <div className="absolute inset-0 bg-black/50" />
         <div className="absolute inset-0 flex flex-col items-center justify-center text-white">
-          <h1 className="text-4xl md:text-6xl font-serif text-center mb-4">
+          <h1 className="text-4xl md:text-6xl font-serif text-center mb-4 mt-24">
             Banquets
           </h1>
           <p className="text-lg md:text-xl text-center max-w-3xl mx-4">
